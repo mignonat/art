@@ -1,0 +1,1 @@
+quasar dev # launch quasar dev server
